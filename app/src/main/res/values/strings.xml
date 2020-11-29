@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Apps</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="bookmarkurl">
+        <item>https://www.google.com/</item>
+        <item>https://www.facebook.com/</item>
+        <item>https://www.instagram.com/</item>
+        <item>https://www.youtube.com/</item>
+    </string-array>
+</resources>

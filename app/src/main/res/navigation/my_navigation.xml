@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/my_navigation"
+    app:startDestination="@+id/home_Fragment">
+
+    <fragment
+        android:id="@+id/home_Fragment"
+        android:name="com.vk5.apps.Home_Fragment"
+        android:label="Home"
+        tools:layout="@layout/fragment_home_" >
+        <action
+            android:id="@+id/action_home_Fragment_to_food_Fragment"
+            app:destination="@id/food_Fragment"
+            app:enterAnim="@android:anim/slide_in_left"
+            app:exitAnim="@android:anim/slide_out_right"
+            app:popEnterAnim="@android:anim/slide_in_left"
+            app:popExitAnim="@android:anim/slide_out_right" />
+        <action
+            android:id="@+id/action_home_Fragment_to_hotel_Fragment"
+            app:destination="@id/hotel_Fragment"
+            app:enterAnim="@android:anim/slide_in_left"
+            app:exitAnim="@android:anim/slide_out_right"
+            app:popEnterAnim="@android:anim/slide_in_left"
+            app:popExitAnim="@android:anim/slide_out_right" />
+        <action
+            android:id="@+id/action_home_Fragment_to_movie_Fragment"
+            app:destination="@id/movie_Fragment"
+            app:enterAnim="@android:anim/slide_in_left"
+            app:exitAnim="@android:anim/slide_out_right"
+            app:popEnterAnim="@android:anim/slide_in_left"
+            app:popExitAnim="@android:anim/slide_out_right" />
+        <action
+            android:id="@+id/action_home_Fragment_to_shopping_Fragment"
+            app:destination="@id/shopping_Fragment"
+            app:enterAnim="@android:anim/slide_in_left"
+            app:exitAnim="@android:anim/slide_out_right"
+            app:popEnterAnim="@android:anim/slide_in_left"
+            app:popExitAnim="@android:anim/slide_out_right" />
+        <action
+            android:id="@+id/action_home_Fragment_to_cabFragment"
+            app:destination="@id/cabFragment"
+            app:enterAnim="@android:anim/slide_in_left"
+            app:exitAnim="@android:anim/slide_out_right"
+            app:popEnterAnim="@android:anim/slide_in_left"
+            app:popExitAnim="@android:anim/slide_out_right" />
+        <action
+            android:id="@+id/action_home_Fragment_to_medicineFragment"
+            app:destination="@id/medicineFragment"
+            app:enterAnim="@android:anim/slide_in_left"
+            app:exitAnim="@android:anim/slide_out_right"
+            app:popEnterAnim="@android:anim/slide_in_left"
+            app:popExitAnim="@android:anim/slide_out_right" />
+        <action
+            android:id="@+id/action_home_Fragment_to_flightFragment"
+            app:destination="@id/flightFragment"
+            app:enterAnim="@android:anim/slide_in_left"
+            app:exitAnim="@android:anim/slide_out_right"
+            app:popEnterAnim="@android:anim/slide_in_left"
+            app:popExitAnim="@android:anim/slide_out_right" />
+        <action
+            android:id="@+id/action_home_Fragment_to_trainFragment"
+            app:destination="@id/trainFragment"
+            app:enterAnim="@android:anim/slide_in_left"
+            app:exitAnim="@android:anim/slide_out_right"
+            app:popEnterAnim="@android:anim/slide_in_left"
+            app:popExitAnim="@android:anim/slide_out_right" />
+        <action
+            android:id="@+id/action_home_Fragment_to_busFragment"
+            app:destination="@id/busFragment"
+            app:enterAnim="@android:anim/slide_in_left"
+            app:exitAnim="@android:anim/slide_out_right"
+            app:popEnterAnim="@android:anim/slide_in_left"
+            app:popExitAnim="@android:anim/slide_out_right" />
+        <action
+            android:id="@+id/action_home_Fragment_to_groceryFragment"
+            app:destination="@id/groceryFragment"
+            app:enterAnim="@android:anim/slide_in_left"
+            app:exitAnim="@android:anim/slide_out_right"
+            app:popEnterAnim="@android:anim/slide_in_left"
+            app:popExitAnim="@android:anim/slide_out_right" />
+        <action
+            android:id="@+id/action_home_Fragment_to_localOffersFragment"
+            app:destination="@id/localOffersFragment"
+            app:enterAnim="@android:anim/slide_in_left"
+            app:exitAnim="@android:anim/slide_out_right"
+            app:popEnterAnim="@android:anim/slide_in_left"
+            app:popExitAnim="@android:anim/slide_out_right" />
+        <action
+            android:id="@+id/action_home_Fragment_to_homeServiceFragment"
+            app:destination="@id/homeServiceFragment"
+            app:enterAnim="@android:anim/slide_in_left"
+            app:exitAnim="@android:anim/slide_out_right"
+            app:popEnterAnim="@android:anim/slide_in_left"
+            app:popExitAnim="@android:anim/slide_out_right" />
+        <action
+            android:id="@+id/action_home_Fragment_to_mobileFragment"
+            app:destination="@id/mobileFragment"
+            app:enterAnim="@android:anim/slide_in_left"
+            app:exitAnim="@android:anim/slide_out_right"
+            app:popEnterAnim="@android:anim/slide_in_left"
+            app:popExitAnim="@android:anim/slide_out_right" />
+        <action
+            android:id="@+id/action_home_Fragment_to_electricFragment"
+            app:destination="@id/electricFragment"
+            app:enterAnim="@android:anim/slide_in_left"
+            app:exitAnim="@android:anim/slide_out_right"
+            app:popEnterAnim="@android:anim/slide_in_left"
+            app:popExitAnim="@android:anim/slide_out_right" />
+        <action
+            android:id="@+id/action_home_Fragment_to_dthFragment"
+            app:destination="@id/dthFragment"
+            app:enterAnim="@android:anim/slide_in_left"
+            app:exitAnim="@android:anim/slide_out_right"
+            app:popEnterAnim="@android:anim/slide_in_left"
+            app:popExitAnim="@android:anim/slide_out_right" />
+        <action
+            android:id="@+id/action_home_Fragment_to_waterFragment"
+            app:destination="@id/waterFragment"
+            app:enterAnim="@android:anim/slide_in_left"
+            app:exitAnim="@android:anim/slide_out_right"
+            app:popEnterAnim="@android:anim/slide_in_left"
+            app:popExitAnim="@android:anim/slide_out_right" />
+        <action
+            android:id="@+id/action_home_Fragment_to_newsFragment"
+            app:destination="@id/newsFragment"
+            app:enterAnim="@android:anim/slide_in_left"
+            app:exitAnim="@android:anim/slide_out_right"
+            app:popEnterAnim="@android:anim/slide_in_left"
+            app:popExitAnim="@android:anim/slide_out_right" />
+        <action
+            android:id="@+id/action_home_Fragment_to_ottFragment"
+            app:destination="@id/ottFragment"
+            app:enterAnim="@android:anim/slide_in_left"
+            app:exitAnim="@android:anim/slide_out_right"
+            app:popEnterAnim="@android:anim/slide_in_left"
+            app:popExitAnim="@android:anim/slide_out_right" />
+        <action
+            android:id="@+id/action_home_Fragment_to_funFragment"
+            app:destination="@id/funFragment"
+            app:enterAnim="@android:anim/slide_in_left"
+            app:exitAnim="@android:anim/slide_out_right"
+            app:popEnterAnim="@android:anim/slide_in_left"
+            app:popExitAnim="@android:anim/slide_out_right" />
+        <action
+            android:id="@+id/action_home_Fragment_to_gameFragment"
+            app:destination="@id/gameFragment"
+            app:enterAnim="@android:anim/slide_in_left"
+            app:exitAnim="@android:anim/slide_out_right"
+            app:popEnterAnim="@android:anim/slide_in_left"
+            app:popExitAnim="@android:anim/slide_out_right" />
+    </fragment>
+    <fragment
+        android:id="@+id/food_Fragment"
+        android:name="com.vk5.apps.Food_Fragment"
+        android:label="Food"
+        tools:layout="@layout/fragment_food_" >
+        <action
+            android:id="@+id/action_food_Fragment_to_webview2"
+            app:destination="@id/webview2"
+            app:enterAnim="@android:anim/slide_in_left"
+            app:exitAnim="@android:anim/slide_out_right"
+            app:popEnterAnim="@android:anim/slide_in_left"
+            app:popExitAnim="@android:anim/slide_out_right" />
+    </fragment>
+    <fragment
+        android:id="@+id/hotel_Fragment"
+        android:name="com.vk5.apps.Hotel_Fragment"
+        android:label="Hotels"
+        tools:layout="@layout/fragment_hotel_" >
+        <action
+            android:id="@+id/action_hotel_Fragment_to_webview2"
+            app:destination="@id/webview2"
+            app:enterAnim="@android:anim/slide_in_left"
+            app:exitAnim="@android:anim/slide_out_right"
+            app:popEnterAnim="@android:anim/slide_in_left"
+            app:popExitAnim="@android:anim/slide_out_right" />
+    </fragment>
+    <fragment
+        android:id="@+id/webview2"
+        android:name="com.vk5.apps.Webview"
+        tools:layout="@layout/fragment_webview" />
+    <fragment
+        android:id="@+id/movie_Fragment"
+        android:name="com.vk5.apps.Movie_Fragment"
+        android:label="Movie"
+        tools:layout="@layout/fragment_movie_" >
+        <action
+            android:id="@+id/action_movie_Fragment_to_webview2"
+            app:destination="@id/webview2"
+            app:enterAnim="@android:anim/slide_in_left"
+            app:exitAnim="@android:anim/slide_out_right"
+            app:popEnterAnim="@android:anim/slide_in_left"
+            app:popExitAnim="@android:anim/slide_out_right" />
+    </fragment>
+    <fragment
+        android:id="@+id/shopping_Fragment"
+        android:name="com.vk5.apps.Shopping_Fragment"
+        android:label="Shopping"
+        tools:layout="@layout/fragment_shopping_" >
+        <action
+            android:id="@+id/action_shopping_Fragment_to_webview2"
+            app:destination="@id/webview2"
+            app:enterAnim="@android:anim/slide_in_left"
+            app:exitAnim="@android:anim/slide_out_right"
+            app:popEnterAnim="@android:anim/slide_in_left"
+            app:popExitAnim="@android:anim/slide_out_right" />
+    </fragment>
+    <fragment
+        android:id="@+id/cabFragment"
+        android:name="com.vk5.apps.CabFragment"
+        android:label="Cab"
+        tools:layout="@layout/fragment_cab" >
+        <action
+            android:id="@+id/action_cabFragment_to_webview2"
+            app:destination="@id/webview2"
+            app:enterAnim="@android:anim/slide_in_left"
+            app:exitAnim="@android:anim/slide_out_right"
+            app:popEnterAnim="@android:anim/slide_in_left"
+            app:popExitAnim="@android:anim/slide_out_right" />
+    </fragment>
+    <fragment
+        android:id="@+id/medicineFragment"
+        android:name="com.vk5.apps.MedicineFragment"
+        android:label="Medicine"
+        tools:layout="@layout/fragment_medicine" >
+        <action
+            android:id="@+id/action_medicineFragment_to_webview2"
+            app:destination="@id/webview2"
+            app:enterAnim="@android:anim/slide_in_left"
+            app:exitAnim="@android:anim/slide_out_right"
+            app:popEnterAnim="@android:anim/slide_in_left"
+            app:popExitAnim="@android:anim/slide_out_right" />
+    </fragment>
+    <fragment
+        android:id="@+id/flightFragment"
+        android:name="com.vk5.apps.FlightFragment"
+        android:label="Flight"
+        tools:layout="@layout/fragment_flight" >
+        <action
+            android:id="@+id/action_flightFragment_to_webview2"
+            app:destination="@id/webview2"
+            app:enterAnim="@android:anim/slide_in_left"
+            app:exitAnim="@android:anim/slide_out_right"
+            app:popEnterAnim="@android:anim/slide_in_left"
+            app:popExitAnim="@android:anim/slide_out_right" />
+    </fragment>
+    <fragment
+        android:id="@+id/trainFragment"
+        android:name="com.vk5.apps.TrainFragment"
+        android:label="Train"
+        tools:layout="@layout/fragment_train" >
+        <action
+            android:id="@+id/action_trainFragment_to_webview2"
+            app:destination="@id/webview2"
+            app:enterAnim="@android:anim/slide_in_left"
+            app:exitAnim="@android:anim/slide_out_right"
+            app:popEnterAnim="@android:anim/slide_in_left"
+            app:popExitAnim="@android:anim/slide_out_right" />
+    </fragment>
+    <fragment
+        android:id="@+id/busFragment"
+        android:name="com.vk5.apps.BusFragment"
+        android:label="Bus"
+        tools:layout="@layout/fragment_bus" >
+        <action
+            android:id="@+id/action_busFragment_to_webview2"
+            app:destination="@id/webview2"
+            app:enterAnim="@android:anim/slide_in_left"
+            app:exitAnim="@android:anim/slide_out_right"
+            app:popEnterAnim="@android:anim/slide_in_left"
+            app:popExitAnim="@android:anim/slide_out_right" />
+    </fragment>
+    <fragment
+        android:id="@+id/groceryFragment"
+        android:name="com.vk5.apps.GroceryFragment"
+        android:label="Grocery"
+        tools:layout="@layout/fragment_grocery" >
+        <action
+            android:id="@+id/action_groceryFragment_to_webview2"
+            app:destination="@id/webview2" />
+    </fragment>
+    <fragment
+        android:id="@+id/homeServiceFragment"
+        android:name="com.vk5.apps.HomeServiceFragment"
+        android:label="Home Service"
+        tools:layout="@layout/fragment_home_service" >
+        <action
+            android:id="@+id/action_homeServiceFragment_to_webview2"
+            app:destination="@id/webview2"
+            app:enterAnim="@android:anim/slide_in_left"
+            app:exitAnim="@android:anim/slide_out_right"
+            app:popEnterAnim="@android:anim/slide_in_left"
+            app:popExitAnim="@android:anim/slide_out_right" />
+    </fragment>
+    <fragment
+        android:id="@+id/localOffersFragment"
+        android:name="com.vk5.apps.LocalOffersFragment"
+        android:label="Local Offres"
+        tools:layout="@layout/fragment_local_offers" >
+        <action
+            android:id="@+id/action_localOffersFragment_to_webview2"
+            app:destination="@id/webview2"
+            app:enterAnim="@android:anim/slide_in_left"
+            app:exitAnim="@android:anim/slide_out_right"
+            app:popEnterAnim="@android:anim/slide_in_left"
+            app:popExitAnim="@android:anim/slide_out_right" />
+    </fragment>
+    <fragment
+        android:id="@+id/mobileFragment"
+        android:name="com.vk5.apps.MobileFragment"
+        android:label="Mobile"
+        tools:layout="@layout/fragment_mobile" >
+        <action
+            android:id="@+id/action_mobileFragment_to_webview2"
+            app:destination="@id/webview2"
+            app:enterAnim="@android:anim/slide_in_left"
+            app:exitAnim="@android:anim/slide_out_right"
+            app:popEnterAnim="@android:anim/slide_in_left"
+            app:popExitAnim="@android:anim/slide_out_right" />
+    </fragment>
+    <fragment
+        android:id="@+id/electricFragment"
+        android:name="com.vk5.apps.ElectricFragment"
+        android:label="Electric"
+        tools:layout="@layout/fragment_electric" >
+        <action
+            android:id="@+id/action_electricFragment_to_webview2"
+            app:destination="@id/webview2"
+            app:enterAnim="@android:anim/slide_in_left"
+            app:exitAnim="@android:anim/slide_out_right"
+            app:popEnterAnim="@android:anim/slide_in_left"
+            app:popExitAnim="@android:anim/slide_out_right" />
+    </fragment>
+    <fragment
+        android:id="@+id/dthFragment"
+        android:name="com.vk5.apps.DthFragment"
+        android:label="Dth"
+        tools:layout="@layout/fragment_dth" >
+        <action
+            android:id="@+id/action_dthFragment_to_webview2"
+            app:destination="@id/webview2"
+            app:enterAnim="@android:anim/slide_in_left"
+            app:exitAnim="@android:anim/slide_out_right"
+            app:popEnterAnim="@android:anim/slide_in_left"
+            app:popExitAnim="@android:anim/slide_out_right" />
+    </fragment>
+    <fragment
+        android:id="@+id/waterFragment"
+        android:name="com.vk5.apps.WaterFragment"
+        android:label="Water"
+        tools:layout="@layout/fragment_water" >
+        <action
+            android:id="@+id/action_waterFragment_to_webview2"
+            app:destination="@id/webview2"
+            app:enterAnim="@android:anim/slide_in_left"
+            app:exitAnim="@android:anim/slide_out_right"
+            app:popEnterAnim="@android:anim/slide_in_left"
+            app:popExitAnim="@android:anim/slide_out_right" />
+    </fragment>
+    <fragment
+        android:id="@+id/gameFragment"
+        android:name="com.vk5.apps.GameFragment"
+        android:label="Game"
+        tools:layout="@layout/fragment_game" >
+        <action
+            android:id="@+id/action_gameFragment_to_webview2"
+            app:destination="@id/webview2"
+            app:enterAnim="@android:anim/slide_in_left"
+            app:exitAnim="@android:anim/slide_out_right"
+            app:popEnterAnim="@android:anim/slide_in_left"
+            app:popExitAnim="@android:anim/slide_out_right" />
+    </fragment>
+    <fragment
+        android:id="@+id/funFragment"
+        android:name="com.vk5.apps.FunFragment"
+        android:label="Fun"
+        tools:layout="@layout/fragment_fun" >
+        <action
+            android:id="@+id/action_funFragment_to_webview2"
+            app:destination="@id/webview2"
+            app:enterAnim="@android:anim/slide_in_left"
+            app:exitAnim="@android:anim/slide_out_right"
+            app:popEnterAnim="@android:anim/slide_in_left"
+            app:popExitAnim="@android:anim/slide_out_right" />
+    </fragment>
+    <fragment
+        android:id="@+id/ottFragment"
+        android:name="com.vk5.apps.OttFragment"
+        android:label="Ott"
+        tools:layout="@layout/fragment_ott" >
+        <action
+            android:id="@+id/action_ottFragment_to_webview2"
+            app:destination="@id/webview2"
+            app:enterAnim="@android:anim/slide_in_left"
+            app:exitAnim="@android:anim/slide_out_right"
+            app:popEnterAnim="@android:anim/slide_in_left"
+            app:popExitAnim="@android:anim/slide_out_right" />
+    </fragment>
+    <fragment
+        android:id="@+id/newsFragment"
+        android:name="com.vk5.apps.NewsFragment"
+        android:label="News"
+        tools:layout="@layout/fragment_news" >
+        <action
+            android:id="@+id/action_newsFragment_to_webview2"
+            app:destination="@id/webview2"
+            app:enterAnim="@android:anim/slide_in_left"
+            app:exitAnim="@android:anim/slide_out_right"
+            app:popEnterAnim="@android:anim/slide_in_left"
+            app:popExitAnim="@android:anim/slide_out_right" />
+    </fragment>
+    <fragment
+        android:id="@+id/about_us"
+        android:name="com.vk5.apps.Aboutus"
+        android:label="AboutUS"
+        tools:layout="@layout/fragment_aboutus" />
+</navigation>

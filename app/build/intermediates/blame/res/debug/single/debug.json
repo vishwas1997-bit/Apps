@@ -1,0 +1,610 @@
+[
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "E:\\Apps\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable_local_offers.png.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\drawable\\local_offers.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cleartrip.png.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\drawable\\cleartrip.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable_game.png.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\drawable\\game.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bigbasket.jpeg.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\drawable\\bigbasket.jpeg"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_dth.xml.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\layout\\fragment_dth.xml"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_contact_icon.png.flat",
+        "source": "E:\\Apps\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\contact_icon.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable_blank_bubble.xml.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\drawable\\blank_bubble.xml"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable_zoomcar.png.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\drawable\\zoomcar.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable_snapdeal.png.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\drawable\\snapdeal.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable_news.png.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\drawable\\news.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable_water.png.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\drawable\\water.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "E:\\Apps\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_contact_icon.png.flat",
+        "source": "E:\\Apps\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\contact_icon.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable_zomato.png.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\drawable\\zomato.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\menu_nav_menu.xml.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\menu\\nav_menu.xml"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_edit_icon.png.flat",
+        "source": "E:\\Apps\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\edit_icon.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_edit_icon.png.flat",
+        "source": "E:\\Apps\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\edit_icon.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_movie_.xml.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\layout\\fragment_movie_.xml"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_flight.xml.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\layout\\fragment_flight.xml"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable_twogud.png.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\drawable\\twogud.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable_food_inshot.jpg.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\drawable\\food_inshot.jpg"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hotel_inshort.jpg.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\drawable\\hotel_inshort.jpg"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bus.png.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\drawable\\bus.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\layout_viewpager_imagelayout.xml.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\layout\\viewpager_imagelayout.xml"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable_makemytrip.jpg.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\drawable\\makemytrip.jpg"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_mobile.xml.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\layout\\fragment_mobile.xml"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable_medlife.jpg.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\drawable\\medlife.jpg"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home_.xml.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\layout\\fragment_home_.xml"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_hotel_.xml.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\layout\\fragment_hotel_.xml"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "E:\\Apps\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_home_icon.png.flat",
+        "source": "E:\\Apps\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\home_icon.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_bus.xml.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\layout\\fragment_bus.xml"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.png.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_account_icon.png.flat",
+        "source": "E:\\Apps\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\account_icon.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_contact_icon.png.flat",
+        "source": "E:\\Apps\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\contact_icon.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable_helo.jpg.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\drawable\\helo.jpg"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pharmeasy.jpeg.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\drawable\\pharmeasy.jpeg"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mc_donalds.png.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\drawable\\mc_donalds.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_home_icon.png.flat",
+        "source": "E:\\Apps\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\home_icon.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable_redbus.png.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\drawable\\redbus.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_account_icon.png.flat",
+        "source": "E:\\Apps\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\account_icon.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "E:\\Apps\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dream11.png.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\drawable\\dream11.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_account_.xml.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\layout\\fragment_account_.xml"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_game.xml.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\layout\\fragment_game.xml"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shopping.png.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\drawable\\shopping.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_contact_icon.xml.flat",
+        "source": "E:\\Apps\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\contact_icon.xml"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_home_icon.png.flat",
+        "source": "E:\\Apps\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\home_icon.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_edit_icon.png.flat",
+        "source": "E:\\Apps\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\edit_icon.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "E:\\Apps\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header.xml.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\layout\\nav_header.xml"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable_swiggy.png.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\drawable\\swiggy.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ott.png.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\drawable\\ott.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable_netmeds.png.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\drawable\\netmeds.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable_train.jpg.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\drawable\\train.jpg"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_news.xml.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\layout\\fragment_news.xml"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_main.xml.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mobikwik.png.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\drawable\\mobikwik.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable_buying.png.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\drawable\\buying.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_train.xml.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\layout\\fragment_train.xml"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bookingcom.png.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\drawable\\bookingcom.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable_likee.png.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\drawable\\likee.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dominos.png.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\drawable\\dominos.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_home_icon.png.flat",
+        "source": "E:\\Apps\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\home_icon.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dessert_inshort.jpg.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\drawable\\dessert_inshort.jpg"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_home_icon.png.flat",
+        "source": "E:\\Apps\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\home_icon.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_food_.xml.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\layout\\fragment_food_.xml"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shopping_inshot.jpg.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\drawable\\shopping_inshot.jpg"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable_game1.png.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\drawable\\game1.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable_amazon.png.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\drawable\\amazon.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable_flight.png.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\drawable\\flight.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_electric.xml.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\layout\\fragment_electric.xml"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_account_icon.png.flat",
+        "source": "E:\\Apps\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\account_icon.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable_movies.png.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\drawable\\movies.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_edit_icon.png.flat",
+        "source": "E:\\Apps\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\edit_icon.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fun.png.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\drawable\\fun.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable_oyo.png.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\drawable\\oyo.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable_medical.png.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\drawable\\medical.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dth.png.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\drawable\\dth.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sharechat.jpg.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\drawable\\sharechat.jpg"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable_filled_bubble.xml.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\drawable\\filled_bubble.xml"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_account_icon.png.flat",
+        "source": "E:\\Apps\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\account_icon.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_account_icon.png.flat",
+        "source": "E:\\Apps\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\account_icon.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hotel.png.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\drawable\\hotel.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_medicine.xml.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\layout\\fragment_medicine.xml"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_edit_icon.png.flat",
+        "source": "E:\\Apps\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\edit_icon.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_webview.xml.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\layout\\fragment_webview.xml"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ola.png.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\drawable\\ola.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "E:\\Apps\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable_home_service.png.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\drawable\\home_service.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_local_offers.xml.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\layout\\fragment_local_offers.xml"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable_grocery_inshot.jpg.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\drawable\\grocery_inshot.jpg"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mxplayer.png.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\drawable\\mxplayer.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable_housejoy.jpg.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\drawable\\housejoy.jpg"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_edit_icon.xml.flat",
+        "source": "E:\\Apps\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\edit_icon.xml"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_contact_icon.png.flat",
+        "source": "E:\\Apps\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\contact_icon.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_home_icon.xml.flat",
+        "source": "E:\\Apps\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\home_icon.xml"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_contact_icon.png.flat",
+        "source": "E:\\Apps\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\contact_icon.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable_food.png.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\drawable\\food.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable_uber.png.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\drawable\\uber.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable_grofers.jpeg.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\drawable\\grofers.jpeg"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable_apollopharmacy.jpg.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\drawable\\apollopharmacy.jpg"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable_flipkart.png.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\drawable\\flipkart.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_grocery.xml.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\layout\\fragment_grocery.xml"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable_onemg.jpeg.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\drawable\\onemg.jpeg"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_ott.xml.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\layout\\fragment_ott.xml"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable_myntra.png.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\drawable\\myntra.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pizza_hut.png.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\drawable\\pizza_hut.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_account_icon.png.flat",
+        "source": "E:\\Apps\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\account_icon.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash_screen.xml.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_fun.xml.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\layout\\fragment_fun.xml"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable_taxi.png.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\drawable\\taxi.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mobile.png.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\drawable\\mobile.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home_service.xml.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\layout\\fragment_home_service.xml"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ajio.png.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\drawable\\ajio.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable_irctc.png.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\drawable\\irctc.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_shopping_.xml.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\layout\\fragment_shopping_.xml"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bookmyshow.png.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\drawable\\bookmyshow.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable_goibibo.png.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\drawable\\goibibo.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable_freecharge.png.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\drawable\\freecharge.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\navigation_my_navigation.xml.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\navigation\\my_navigation.xml"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nearbuy.png.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\drawable\\nearbuy.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable_electric.png.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\drawable\\electric.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "E:\\Apps\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_icon.png.flat",
+        "source": "E:\\Apps\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\home_icon.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tiktok.jpg.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\drawable\\tiktok.jpg"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable_urbanclap.jpg.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\drawable\\urbanclap.jpg"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cinema_inshort.jpg.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\drawable\\cinema_inshort.jpg"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable_grocery.png.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\drawable\\grocery.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_water.xml.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\layout\\fragment_water.xml"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_account_icon.xml.flat",
+        "source": "E:\\Apps\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\account_icon.xml"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_contact_icon.png.flat",
+        "source": "E:\\Apps\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\contact_icon.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\layout_listviewdesign.xml.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\layout\\listviewdesign.xml"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_edit_icon.png.flat",
+        "source": "E:\\Apps\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\edit_icon.png"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_aboutus.xml.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\layout\\fragment_aboutus.xml"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_cab.xml.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\layout\\fragment_cab.xml"
+    },
+    {
+        "merged": "E:\\Apps\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_edit_.xml.flat",
+        "source": "E:\\Apps\\app\\src\\main\\res\\layout\\fragment_edit_.xml"
+    }
+]
