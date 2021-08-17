@@ -28,8 +28,7 @@
             android:id="@+id/framelayout_id"
             android:layout_below="@+id/toolbar_id">
 
-            <include
-                layout="@layout/content_main"></include>
+            <include layout="@layout/content_main" />
         </FrameLayout>
 
     </RelativeLayout>
